@@ -1,0 +1,9 @@
+id,text,label,category,reasoning
+1,HEBOH!!! Dokter mengungkap rahasia pemerintah sembunyikan obat corona yang 100% ampuh! SHARE SEBELUM DIHAPUS!!!,hoax,kesehatan,"Menggunakan kata sensasional, klaim berlebihan tanpa bukti"
+2,Kementerian Kesehatan RI mengumumkan update vaksinasi COVID-19 untuk booster kedua. Informasi lengkap dapat diakses di covid19.go.id,valid,kesehatan,Merujuk ke sumber resmi pemerintah
+3,Selamat! Anda terpilih mendapat hadiah Rp 10.000.000 dari program BRI. Segera klik link ini dan masukkan PIN ATM Anda untuk klaim: bit.ly/xxxxx,phishing,penipuan,"Meminta data sensitif, link mencurigakan, hadiah tidak realistis"
+4,"Menurut analisis Katadata, inflasi Indonesia di bulan Maret tercatat 2,8% year-on-year berdasarkan data BPS.",valid,ekonomi,Merujuk sumber data kredibel dan media terpercaya
+5,"WASPADA! Menurut orang dalam, akan ada gempa besar besok jam 3 sore. Sebarkan ke semua grup!",hoax,bencana,"Tidak ada sumber jelas, memprediksi bencana tanpa basis ilmiah"
+6,Akun BCA Anda terblokir karena aktivitas mencurigakan. Segera verifikasi dengan mengirim OTP ke nomor ini: 0812xxxx. Batas waktu 1 jam.,phishing,penipuan,"Social engineering, urgency palsu, meminta OTP"
+7,BMKG melaporkan potensi cuaca ekstrim di wilayah Jabodetabek pada 15-17 Januari 2025. Masyarakat diimbau waspada. Sumber: bmkg.go.id,valid,cuaca,Informasi dari lembaga berwenang dengan sumber jelas
+8,"Katanya dari grup sebelah, pemerintah akan lockdown total minggu depan. Info dari orang dalam Istana.",disinformasi,kebijakan,"Rumor tanpa konfirmasi resmi, sumber tidak jelas"

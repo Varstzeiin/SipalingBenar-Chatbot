@@ -1,0 +1,20 @@
+# DAFTAR LINK UNTUK TESTING URL SCRAPER
+# Format: URL (satu per baris)
+
+# Sumber Terpercaya
+https://www.kompas.com/
+https://www.detik.com/
+https://turnbackhoax.id/
+https://www.antaranews.com/
+
+# Fact-Checking Sites
+https://cekfakta.com/
+https://www.tempo.co/indeks/cek-fakta
+
+# Government Sites
+https://www.kominfo.go.id/
+https://covid19.go.id/
+
+# Contoh untuk diuji (gunakan link aktual untuk testing)
+# https://example-news-site.com/article-1
+# https://example-blog.com/post-2

@@ -1,0 +1,45 @@
+# DAFTAR SUMBER TERPERCAYA
+# Format: Kategori -> Domain
+
+## Pemerintah & Lembaga Resmi
+kominfo.go.id
+covid19.go.id
+setkab.go.id
+indonesia.go.id
+bpom.go.id
+kemkes.go.id
+bnpb.go.id
+polri.go.id
+bi.go.id
+
+## Fact-Checking
+turnbackhoax.id
+cekfakta.com
+medcom.id/cek-fakta
+liputan6.com/cek-fakta
+tempo.co/indeks/cek-fakta
+kompas.com/cekfakta
+
+## Media Mainstream Terpercaya
+kompas.com
+detik.com
+tempo.co
+antaranews.com
+cnnindonesia.com
+bbc.com/indonesia
+liputan6.com
+tirto.id
+katadata.co.id
+
+## Kesehatan
+who.int
+alodokter.com
+halodoc.com
+klikdokter.com
+sehatq.com
+
+## Teknologi & Keamanan Siber
+bssn.go.id
+csirt.go.id
+cert.or.id
+

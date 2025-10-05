@@ -1,0 +1,44 @@
+# ============================================================
+# 🧠 DISINFO GUARDIAN - Chatbot Deteksi Hoaks & Phishing
+# ============================================================
+
+# --- Core App Framework ---
+streamlit>=1.33.0
+
+# --- LLM Integration ---
+openai>=1.12.0
+google-generativeai>=0.3.2
+
+# --- Web Scraping & Parsing ---
+beautifulsoup4>=4.12.3
+requests>=2.31.0
+urllib3>=2.0.7
+
+# --- Data Handling ---
+pandas>=2.2.2
+tqdm>=4.66.1
+
+# --- Utility / System ---
+python-dotenv>=1.0.1
+regex>=2024.4.16
+
+# --- (Opsional) Untuk Parsing CSV, Encoding, dan Logging tambahan ---
+chardet>=5.2.0
+lxml>=5.2.1
+
+# ============================================================
+# ✅ Cara Setup Virtual Environment
+# ============================================================
+# 1️⃣ Buat environment baru
+#     python -m venv venv
+#
+# 2️⃣ Aktifkan environment
+#     Windows: .\venv\Scripts\activate
+#     Mac/Linux: source venv/bin/activate
+#
+# 3️⃣ Install semua dependencies
+#     pip install -r requirements.txt
+#
+# 4️⃣ Jalankan aplikasi
+#     streamlit run main_app.py
+# ============================================================
