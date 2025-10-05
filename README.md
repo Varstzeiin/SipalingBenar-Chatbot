@@ -42,25 +42,37 @@ Dengan gaya interaktif yang **Gen Z friendly**, ia bukan cuma informatif — tap
 
 ## 🧩 **Struktur Proyek**
 
-disinfo_guardian/
-├── data/
-│ ├── lexicons/
-│ │ ├── hoax_keywords.txt
-│ │ ├── phishing_keywords.txt
-│ │ └── trusted_sources.txt
-│ └── samples/
-│ ├── example_texts.csv
-│ └── sample_links.txt
+📦 SipalingBenar-Chatbot/
 │
-├── modules/
-│ ├── rules_precheck.py
-│ ├── url_scraper.py
-│ ├── rag_retriever.py
-│ ├── llm_reasoner.py
-│ ├── response_formatter.py
-│ └── analysis_engine.py
+├── 📁 data/
+│   ├── 📁 lexicons/
+│   │   ├── hoax_keywords.txt
+│   │   ├── phishing_keywords.txt
+│   │   └── trusted_sources.txt
+│   └── 📁 samples/
+│       ├── example_texts.csv
+│       └── sample_links.txt
 │
-└── app_chatbot.py
+├── 📁 modules/
+│   ├── rules_precheck.py
+│   ├── url_scraper.py
+│   ├── rag_retriever.py
+│   ├── llm_reasoner.py
+│   ├── response_formatter.py
+│   └── analysis_engine.py
+│
+├── 📁 static_assets/
+│   ├── SipalingBenar-Logo.png          ← logo chatbot
+│   ├── demo_chat_ui.png                ← screenshot UI Streamlit
+│   └── (tambahan: cover_readme.png)    ← cover README (opsional)
+│
+├── 📄 app_chatbot.py                    ← main Streamlit UI
+├── 📄 requirements.txt                  ← daftar library Python
+├── 📄 .env                              ← optional, API key (jangan di-push publik)
+├── 📄 .gitignore                        ← agar .env & cache gak ke-push
+├── 📄 README.md                         ← file yang barusan gue buatin 😎
+└── 📄 LICENSE                           ← isi dengan teks MIT License
+
 
 🧪 Contoh Input
 
