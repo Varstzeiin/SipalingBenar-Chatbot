@@ -3,7 +3,7 @@
 > Chatbot edukatif untuk bantu generasi muda melawan hoaks, phishing, dan misinformasi online.
 
 <p align="center">
-  <img src="static_assets/SipalingBenar-Logo.png" alt="SiPalingBenar Logo" width="220"/>
+  <img src="Logoo-Fix-SipalingBener.png" alt="SiPalingBenar Logo" width="220"/>
 </p>
 
 ---
