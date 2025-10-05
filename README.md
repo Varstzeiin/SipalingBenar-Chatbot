@@ -38,10 +38,10 @@ Dengan gaya interaktif yang **Gen Z friendly**, ia bukan cuma informatif — tap
 | 👋 **Auto Greeting & Farewell** | “Stay anti-hoaks!” pas user pamit |
 | 🧯 **Error-safe System** | Fallback otomatis, aman dari tuple/string error |
 
----
 
 ## 🧩 **Struktur Proyek**
 
+```bash
 📦 SipalingBenar-Chatbot/
 │
 ├── 📁 data/
@@ -64,14 +64,15 @@ Dengan gaya interaktif yang **Gen Z friendly**, ia bukan cuma informatif — tap
 ├── 📁 static_assets/
 │   ├── SipalingBenar-Logo.png          ← logo chatbot
 │   ├── demo_chat_ui.png                ← screenshot UI Streamlit
-│   └── (tambahan: cover_readme.png)    ← cover README (opsional)
+│   └── cover_readme.png                ← cover README (opsional)
 │
 ├── 📄 app_chatbot.py                    ← main Streamlit UI
 ├── 📄 requirements.txt                  ← daftar library Python
 ├── 📄 .env                              ← optional, API key (jangan di-push publik)
 ├── 📄 .gitignore                        ← agar .env & cache gak ke-push
-├── 📄 README.md                         ← file yang barusan gue buatin 😎
-└── 📄 LICENSE                           ← isi dengan teks MIT License
+├── 📄 README.md                         ← dokumentasi utama proyek 😎
+└── 📄 LICENSE                           ← teks lisensi MIT
+
 
 
 🧪 Contoh Input
